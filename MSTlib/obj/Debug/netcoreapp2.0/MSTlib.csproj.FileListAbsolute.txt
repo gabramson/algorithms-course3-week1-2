@@ -1,0 +1,9 @@
+D:\Projects\C#\Coursera\algorithms-course3\week1-2\MSTlib\obj\Debug\netcoreapp2.0\MSTlib.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Coursera\algorithms-course3\week1-2\MSTlib\obj\Debug\netcoreapp2.0\MSTlib.AssemblyInfoInputs.cache
+D:\Projects\C#\Coursera\algorithms-course3\week1-2\MSTlib\obj\Debug\netcoreapp2.0\MSTlib.AssemblyInfo.cs
+D:\Projects\C#\Coursera\algorithms-course3\week1-2\MSTlib\bin\Debug\netcoreapp2.0\MSTlib.deps.json
+D:\Projects\C#\Coursera\algorithms-course3\week1-2\MSTlib\bin\Debug\netcoreapp2.0\MSTlib.dll
+D:\Projects\C#\Coursera\algorithms-course3\week1-2\MSTlib\bin\Debug\netcoreapp2.0\MSTlib.pdb
+D:\Projects\C#\Coursera\algorithms-course3\week1-2\MSTlib\obj\Debug\netcoreapp2.0\MSTlib.dll
+D:\Projects\C#\Coursera\algorithms-course3\week1-2\MSTlib\obj\Debug\netcoreapp2.0\MSTlib.pdb
+D:\Projects\C#\Coursera\algorithms-course3\week1-2\MSTlib\obj\Debug\netcoreapp2.0\MSTlib.csprojResolveAssemblyReference.cache
